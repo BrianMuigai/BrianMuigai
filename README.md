@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
     <a href="https://www.w3schools.com/cpp/" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     </a>
@@ -27,14 +27,17 @@
         <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
 </p>
-<!-- 
-<div style="width:100%;height:0;padding-bottom:149%;position:relative;"><iframe src="https://giphy.com/embed/l2R0ebw3nCpJDRTMs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/l2R0ebw3nCpJDRTMs">via GIPHY</a></p> -->
+
+<div style="width:100%;height:0;padding-bottom:149%;position:relative;"><iframe src="https://giphy.com/embed/l2R0ebw3nCpJDRTMs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/l2R0ebw3nCpJDRTMs">via GIPHY</a></p>
+
+<p align="center">
 
 #### Who I am?
 - A solution architect based in **[Kenya](https://en.wikipedia.org/wiki/Kenya), [Nairobi](https://en.wikipedia.org/wiki/Nairobi).** 
 - Have 5 years of hands-on experience in **technology consulting, stakeholder engagement, product development.**
 - Developed products for **financial service, Ride Hailing and Deliveries, Ecommerce, retail,** and **logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=brianmuigai&theme=onedark)](https://github.com/brianmuigai/github-profile-trophy)
 
@@ -45,6 +48,7 @@
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brianmuigai&theme=onedark)](https://git.io/streak-stats)
+
 
 
 #### What I'm doing?
