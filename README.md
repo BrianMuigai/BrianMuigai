@@ -1,36 +1,22 @@
+
 <p align="center">
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://flutter.dev" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
+  <img src="https://img.shields.io/badge/flutter-00599C?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+  <img src="https://img.shields.io/badge/-python-00599C?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-android-E34F26?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux"/>
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  </p>
 </p>
-
-<div style="width:100%;height:0;padding-bottom:149%;position:relative;"><iframe src="https://giphy.com/embed/l2R0ebw3nCpJDRTMs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/l2R0ebw3nCpJDRTMs">via GIPHY</a></p>
-
-<p align="center">
 
 #### Who I am?
 - A solution architect based in **[Kenya](https://en.wikipedia.org/wiki/Kenya), [Nairobi](https://en.wikipedia.org/wiki/Nairobi).** 
@@ -42,9 +28,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=brianmuigai&theme=onedark)](https://github.com/brianmuigai/github-profile-trophy)
 
 <!--Github Stats-->
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianmuigai&theme=onedark" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai&theme=onedark"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianmuigai&theme=onedark" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai&theme=onedark"/>
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brianmuigai&theme=onedark)](https://git.io/streak-stats)
@@ -88,11 +74,15 @@
   - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31rimshl74cv2fo3wivz3d5dvwta)
+<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31rimshl74cv2fo3wivz3d5dvwta) -->
+
+<p align="center">
+  <img src="https://github.com/BrianMuigai/BrianMuigai/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 
 #### What companies have I worked for?
-<p left="center">
+<p align="center">
   <a href="https://hava.bz/">
     <img src="https://hava.bz/wp-content/uploads/2023/03/logo.png" height=50>
     </a> 
@@ -101,5 +91,8 @@
   </a>
   <a href="https://www.zumi.africa/">
     <img src="	https://uploads-ssl.webflow.com/637662539cc3efe507651398/63768d4babe61be3b8620eae_ZUMI%20Logo.png" height=50> 
+  </a>
+  <a href="https://brijtechke.info">
+    <img src="https://avatars.githubusercontent.com/u/110716395?s=200&v=4" height=150>
   </a>
 </p>
