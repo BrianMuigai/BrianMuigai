@@ -18,7 +18,10 @@
   </p>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=brianmuigai&theme=onedark&column=7)](https://github.com/brianmuigai/github-profile-trophy)
+<!---Trophy-->
+<p align="center">  
+  <img  src="https://github-profile-trophy.vercel.app/?username=brianmuigai&theme=onedark&column=7">
+</p>
 
 <!--Github Stats-->
 <p align="center">
