@@ -18,13 +18,6 @@
   </p>
 </p>
 
-#### Who I am?
-- A solution architect based in **[Kenya](https://en.wikipedia.org/wiki/Kenya), [Nairobi](https://en.wikipedia.org/wiki/Nairobi).** 
-- Have 5 years of hands-on experience in **technology consulting, stakeholder engagement, product development.**
-- Developed products for **financial service, Ride Hailing and Deliveries, Ecommerce, retail,** and **logistics** business domains.
-- Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
-</p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=brianmuigai&theme=onedark&column=7)](https://github.com/brianmuigai/github-profile-trophy)
 
 <!--Github Stats-->
@@ -32,9 +25,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianmuigai&theme=onedark" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai&theme=onedark"/>
 </p>
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BrianMuigai&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0" />
+</p> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brianmuigai&theme=onedark)](https://git.io/streak-stats)
-
+#### Who I am?
+- A solution architect based in **[Kenya](https://en.wikipedia.org/wiki/Kenya), [Nairobi](https://en.wikipedia.org/wiki/Nairobi).** 
+- Have 5 years of hands-on experience in **technology consulting, stakeholder engagement, product development.**
+- Developed products for **financial service, Ride Hailing and Deliveries, Ecommerce, retail,** and **logistics** business domains.
+- Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
+</p>
 
 
 #### What I'm doing?
