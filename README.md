@@ -93,6 +93,6 @@
     <img src="	https://uploads-ssl.webflow.com/637662539cc3efe507651398/63768d4babe61be3b8620eae_ZUMI%20Logo.png" height=50> 
   </a>
   <a href="https://brijtechke.info">
-    <img src="https://avatars.githubusercontent.com/u/110716395?s=200&v=4" height=150>
+    <img src="https://avatars.githubusercontent.com/u/110716395?s=200&v=4" height=50>
   </a>
 </p>
