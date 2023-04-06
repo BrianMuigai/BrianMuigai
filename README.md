@@ -25,7 +25,7 @@
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=brianmuigai&theme=onedark)](https://github.com/brianmuigai/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=brianmuigai&theme=onedark&column=7)](https://github.com/brianmuigai/github-profile-trophy)
 
 <!--Github Stats-->
 <p align="center">
