@@ -43,7 +43,6 @@
 #### What I'm doing?
 - 🏢 Working at **[SELISE](https://selise.ch/)** as a **Senior Solution Architect**.
 - 👨‍💻 Writing `Java` `Python` `Flutter` `SQL` `Android` `HTML` `CSS` `JavaScript` `React`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-refat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
 - 📚 Currently learning about **clean architecture**, **wasm**, **large scale system design**, and **techical pitch**.
 - 👯 Looking to collaborate on **.NET projects**.
 - 🥰 Building **[Honk-Trooper](https://github.com/brianmuigai/honk-trooper-uno-platform)**, **[Astro-Odyssey](https://github.com/brianmuigai/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/brianmuigai/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/brianmuigai/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/brianmuigai/sky-way-uno-platform)**, **[Memory-Match](https://github.com/brianmuigai/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/brianmuigai/honk-hero-uno-platform)** & **[Phototis](https://github.com/brianmuigai/Phototis-Uno-Platform)** as pet projects.
@@ -84,7 +83,6 @@
 </p>
 
 
-#### What companies have I worked for?
 <p align="center">
   <a href="https://hava.bz/">
     <img src="https://hava.bz/wp-content/uploads/2023/03/logo.png" height=50>
