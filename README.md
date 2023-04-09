@@ -41,11 +41,11 @@
 
 
 #### What I'm doing?
-- 🏢 Working at **[SELISE](https://selise.ch/)** as a **Senior Solution Architect**.
-- 👨‍💻 Writing `Java` `Python` `Flutter` `SQL` `Android` `HTML` `CSS` `JavaScript` `React`.
+- 🏢 Working at **[HAVA](https://hava.bz/)** as a **Android Software Engineer | Tech Lead**.
+- 🏢 Consulting at Sparepap as and Android Software Engineer
+- 👨‍💻 Writing `Java` `Kotlin` `Python` `Flask` `Flutter` `SQL` `Android` `HTML` `CSS` `JavaScript` `React`.
 - 📚 Currently learning about **clean architecture**, **wasm**, **large scale system design**, and **techical pitch**.
-- 👯 Looking to collaborate on **.NET projects**.
-- 🥰 Building **[Honk-Trooper](https://github.com/brianmuigai/honk-trooper-uno-platform)**, **[Astro-Odyssey](https://github.com/brianmuigai/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/brianmuigai/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/brianmuigai/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/brianmuigai/sky-way-uno-platform)**, **[Memory-Match](https://github.com/brianmuigai/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/brianmuigai/honk-hero-uno-platform)** & **[Phototis](https://github.com/brianmuigai/Phototis-Uno-Platform)** as pet projects.
+- 👯 Looking to collaborate on **.Springboot and Flask projects**.
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `artificial Inteligence` `Data Science` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
@@ -69,11 +69,11 @@
   - **🗂 CI/CD:** • [Fastlane](https://www.fastlane.tools/) • [Circle CI](https://circleci.com) • [Github Actions](https://github.com/features/actions)
   
 #### What's interesting about me?  
-  - 😎 I am an **ambivert** and I can speak **english** in multiple accents.
+  - 😎 I am an **ambivert**.
   - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
   - ✍️ I write about **why a certain code is written instead of what** in the comments.
   - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
-  - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
+  - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **Mobile and Microservice** ecosystem.
 
 
 <!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31rimshl74cv2fo3wivz3d5dvwta) -->
