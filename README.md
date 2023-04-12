@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/flutter-00599C?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+  <img src="https://img.shields.io/badge/-kotlin-E34A86?style=flat-square&logo=kotlin"/>
   <img src="https://img.shields.io/badge/-python-00599C?style=flat-square&logo=python"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-android-E34F26?style=flat-square&logo=android&logoColor=white"/>
