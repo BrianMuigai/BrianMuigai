@@ -26,7 +26,7 @@
 
 <!--Github Stats-->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianmuigai&theme=onedark&count_private=true" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianmuigai&theme=onedark&count_private=true&show_icons=true" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai&theme=onedark"/>
 </p>
 <p align = "center">
