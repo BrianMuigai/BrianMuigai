@@ -26,11 +26,11 @@
 
 <!--Github Stats-->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianmuigai&theme=onedark" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianmuigai&theme=onedark&count_private=true" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai&theme=onedark"/>
 </p>
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BrianMuigai&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BrianMuigai&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0&count_private=true" />
 </p> 
 
 #### Who I am?
