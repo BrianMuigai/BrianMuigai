@@ -19,45 +19,23 @@
   </p>
 </p>
 
-<!---Trophy-->
-<p align="center">  
-  <img  src="https://github-profile-trophy.vercel.app/?username=brianmuigai&theme=onedark&column=7">
-</p>
 
-<!--Github Stats-->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianmuigai&theme=onedark&count_private=true&show_icons=true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai&theme=onedark"/>
-</p>
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BrianMuigai&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0&count_private=true" />
-</p> 
 
 #### Who I am?
-- A solution architect based in **[Kenya](https://en.wikipedia.org/wiki/Kenya), [Nairobi](https://en.wikipedia.org/wiki/Nairobi).** 
+- A software engineer based in **[Kenya](https://en.wikipedia.org/wiki/Kenya), [Nairobi](https://en.wikipedia.org/wiki/Nairobi).** 
 - Have 5 years of hands-on experience in **technology consulting, stakeholder engagement, product development.**
 - Developed products for **financial service, Ride Hailing and Deliveries, Ecommerce, retail,** and **logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 </p>
 
 
-#### What I'm doing?
-- 🏢 Working at **[HAVA](https://hava.bz/)** as a **Android Software Engineer | Tech Lead**.
-- 🏢 Consulting at Sparepap as and Android Software Engineer
-- 👨‍💻 Writing `Java` `Kotlin` `Python` `Flask` `Flutter` `SQL` `Android` `HTML` `CSS` `JavaScript` `React`.
-- 📚 Currently learning about **clean architecture**, **wasm**, **large scale system design**, and **techical pitch**.
-- 👯 Looking to collaborate on **.Springboot and Flask projects**.
-
 #### What I like to disscuss about? 
 - 💬 Ask me about `artificial Inteligence` `Data Science` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
-  - **📜 Languages:** • `🧙🏻 Flutter` • `👨‍🏭 XML` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
-  - **🔬 Frameworks:**  
-    - **🖥 Desktop:** • [JavaFX](https://openjfx.io/) • [Flutter](https://flutter.dev/) 
-    - **🌐 Web:** • [React](https://react.dev/) • 
-    - **📱 Mobile:** • [Android XML](https://developer.android.com/develop/ui/views/layout/declaring-layout) • [Flutter](https://flutter.dev/) 
+  - **📜 Languages:** • ` Flutter` • `XML` • `Jetpack Compose`
+  
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ Python, Java, Javascript`
   - **🔭 Frameworks:** • [Flask](https://flask.palletsprojects.com/en/2.2.x/) • [NodeJs](https://nodejs.org/en) • [Springboot](https://spring.io/) • [Django](https://www.djangoproject.com/) • [Laravel](https://laravel.com/)
@@ -77,24 +55,6 @@
   - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **Mobile and Microservice** ecosystem.
 
 
-<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31rimshl74cv2fo3wivz3d5dvwta) -->
-
 <p align="center">
   <img src="https://github.com/BrianMuigai/BrianMuigai/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-
-<p align="center">
-  <a href="https://hava.bz/">
-    <img src="https://hava.bz/wp-content/uploads/2023/03/logo.png" height=50>
-    </a> 
-  <a href="https://sparepap.com">
-    <img src="https://sparepap.com/cdn/images/logo.svg" height=50>
-  </a>
-  <a href="https://www.zumi.africa/">
-    <img src="	https://uploads-ssl.webflow.com/637662539cc3efe507651398/63768d4babe61be3b8620eae_ZUMI%20Logo.png" height=50> 
-  </a>
-  <a href="https://brijtechke.info">
-    <img src="https://avatars.githubusercontent.com/u/110716395?s=200&v=4" height=50>
-  </a>
 </p>
