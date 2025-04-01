@@ -23,7 +23,7 @@
 
 #### Who I am?
 - A software engineer based in **[Kenya](https://en.wikipedia.org/wiki/Kenya), [Nairobi](https://en.wikipedia.org/wiki/Nairobi).** 
-- Have 5 years of hands-on experience in **technology consulting, stakeholder engagement, product development.**
+- Have 6 years of hands-on experience in **technology consulting, stakeholder engagement, product development.**
 - Developed products for **financial service, Ride Hailing and Deliveries, Ecommerce, retail,** and **logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 </p>
